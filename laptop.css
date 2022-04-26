@@ -1,0 +1,85 @@
+
+.navegador ul a
+{
+    margin: 0 20px 0 20px;
+    font-size: 1.7rem;
+}
+
+.FirstSection
+{
+    align-items: center;
+}
+
+.FirstSection h1
+{
+    font-size: 5rem;
+}
+
+.FirstSection h4
+{
+    font-size: 2rem;
+}
+
+.FirstSection h3
+{
+    font-size: 2rem;
+}
+
+.FirstSection .Input-text
+{
+    width: 250px;
+    height: 25px;
+    font-size: 1.7rem;
+    box-shadow: none;
+    border-width: 0.5px;
+    outline: none;
+}
+
+.FirstSection .button
+{
+    font-size: 1.5rem;
+    width: 130px;
+    height: 30px;
+}
+
+.right-section img
+{
+    height: 300px;
+    width: 300px;
+}
+
+.SecondSection h2
+{
+    font-size: 3rem;
+}
+
+.SecondSection p
+{
+    font-size: 1.8rem;
+}
+
+.cards-subs
+{
+    height: 70px;
+}
+
+.cards-subs h3
+{
+    font-size: 2rem;
+}
+
+.cards-courses
+{
+    height: 70px;
+    font-size: 1.6rem;
+}
+
+footer
+{
+    font-size: 1.3rem;
+}
+
+footer img
+{
+    height: 40px;
+}

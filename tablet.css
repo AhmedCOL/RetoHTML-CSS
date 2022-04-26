@@ -1,0 +1,68 @@
+.navegador
+{
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navegador figure img
+{
+    margin: 10px;
+}
+
+.navegador ul a
+{
+    font-size: 1.4rem;
+}
+
+.FirstSection
+{
+    align-items: center;
+    justify-content: space-around;
+}
+
+.FirstSection h1
+{
+    font-size: 4rem;
+}
+
+.FirstSection h4
+{
+    font-size: 1.6rem;
+}
+
+.FirstSection h3
+{
+    font-size: 1.6rem;
+}
+
+.SecondSection h2
+{
+    font-size: 2.5rem;
+}
+
+.SecondSection p
+{
+    font-size: 1.4rem;
+}
+
+.cards-subs
+{
+    font-size: 1.1rem;
+}
+
+.cards-courses
+{
+    width: 250px;
+    font-size: 1.2rem;
+}
+
+footer
+{
+    font-size: 1.1rem;
+}
+
+footer img
+{
+    margin: 10px;
+}
